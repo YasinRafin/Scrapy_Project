@@ -40,7 +40,7 @@ This project is a Scrapy spider designed to scrape hotel information from Trip.c
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
   
    ```
-3. Set up your PostgreSQL database and update the connection details in `config.py`.
+3. Set up your PostgreSQL database and update the connection details in `config.py` from config.py.sample
    ```
    DATABASE_URL = "postgresql://username:password@localhost:port/database_name"
    ```
